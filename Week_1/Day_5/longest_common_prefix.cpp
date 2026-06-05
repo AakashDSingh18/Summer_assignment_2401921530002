@@ -1,4 +1,4 @@
-cclass Solution {
+class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
         int n=strs.size();
